@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "582652721661",
+    "firebase_url": "https://topicdiscussion-171125.firebaseio.com",
+    "project_id": "topicdiscussion-171125",
+    "storage_bucket": "topicdiscussion-171125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582652721661:android:f30c81b052798e5a",
+        "android_client_info": {
+          "package_name": "com.atifnaseem.topicdiscussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582652721661-0rjppnd3k65ilvgio7of839admnvn451.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atifnaseem.topicdiscussion",
+            "certificate_hash": "4b5e59197b11333a1a4c969175aa4d3e0829f45b"
+          }
+        },
+        {
+          "client_id": "582652721661-guph30fq6g5600gr9vdsn37g8app7orn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM_BgjuH2SLZPX-CNk_Fudkqz7t1mIvcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582652721661-guph30fq6g5600gr9vdsn37g8app7orn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
